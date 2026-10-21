@@ -1,2 +1,8 @@
 # nyrcs-2026-rsa
-solutions to RSA cryptography lesson for NYRCS 2026
+Solutions to RSA cryptography lesson for NYRCS 2026. Flags may be outdated.
+
+## Setup: Python installation
+Run the following command in your terminal:
+```
+pip install pycryptodome gmpy2
+```
